@@ -1,0 +1,5 @@
+def main():
+    banner()
+
+main()
+
